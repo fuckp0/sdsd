@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "@fontsource/poppins"; /* Defaults to 400 weight */
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
