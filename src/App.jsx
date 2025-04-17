@@ -4,7 +4,7 @@ import AboutUs from "./components/pages/home/aboutus";
 import Recordings from "./components/pages/home/recordings";
 import WhyChooseUs from "./components/pages/home/whychoose";
 import Features from "./components/pages/home/features";
-import Footer from "./components/pages/home/footer";
+import Footer from "../src/components/pages/home/Footer";
 
 function App() {
   // Function to handle smooth scrolling
